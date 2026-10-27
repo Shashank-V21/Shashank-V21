@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Shashank%20V&fontSize=60&fontColor=e6edf3&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Computer%20Vision%20Enthusiast&descSize=18&descAlignY=60&descColor=8b949e" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Shashank%20V&fontSize=60&fontColor=e6edf3&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Development%20Enthusiast&descSize=18&descAlignY=60&descColor=8b949e" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Shashank+%F0%9F%91%8B;Aspiring+Full+Stack+Developer;Python+%7C+Java+%7C+JavaScript+%7C+React;Building+AI+%26+Computer+Vision+projects;Open+to+Fresher+Software+Developer+roles+%F0%9F%9A%80" alt="Typing SVG" />
