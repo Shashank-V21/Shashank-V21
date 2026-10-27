@@ -1,4 +1,4 @@
-<!-- Replace every YOUR_GITHUB_USERNAME and YOUR_LINKEDIN_ID below before publishing -->
+<!-- Replace every Shashank-V21 and shashankv21 below before publishing -->
 
 <div align="center">
 
@@ -10,13 +10,13 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=1f6feb&style=for-the-badge&labelColor=0d1117)
+![Profile Views](https://komarev.com/ghpvc/?username=Shashank-V21&label=Profile%20Views&color=1f6feb&style=for-the-badge&labelColor=0d1117)
 ![Location](https://img.shields.io/badge/Bengaluru-India-1f6feb?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117)
 ![Status](https://img.shields.io/badge/Open%20to%20Work-2ea043?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0d1117)
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/shashankv21"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:shashank.v0074@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/Shashank-V21"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </div>
 
@@ -145,13 +145,13 @@ An AI-powered product discovery system with **image-based and text-based search*
 ### 📌 More on the way
 I'm always building something new. Check out my pinned repositories for the latest work.
 
-[![Repos](https://img.shields.io/badge/Browse%20Repositories-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)
+[![Repos](https://img.shields.io/badge/Browse%20Repositories-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shashank-V21?tab=repositories)
 
     </td>
   </tr>
 </table>
 
-> 💡 **Tip:** Link each project title to its repository, e.g. `### [🕵️ Deepfake Detection System](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME)`.
+> 💡 **Tip:** Link each project title to its repository, e.g. `### [🕵️ Deepfake Detection System](https://github.com/Shashank-V21/REPO_NAME)`.
 
 ---
 
@@ -179,12 +179,12 @@ I'm always building something new. Check out my pinned repositories for the late
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Shashank-V21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank-V21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Shashank-V21&theme=tokyonight&hide_border=true&background=0d1117&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashank-V21&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 
 </div>
 
@@ -195,7 +195,7 @@ I'm always building something new. Check out my pinned repositories for the late
 I'm a fresher looking for a **Software Developer / Full Stack Developer** role where I can contribute to real products, learn from experienced engineers and grow quickly.
 
 **Let's connect:**
-📧 [shashank.v0074@gmail.com](mailto:shashank.v0074@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_ID)
+📧 [shashank.v0074@gmail.com](mailto:shashank.v0074@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/shashankv21)
 
 <div align="center">
 
