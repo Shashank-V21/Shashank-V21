@@ -29,7 +29,7 @@ class Shashank:
     role       = "Aspiring Full Stack Developer"
     education  = "B.E. in Computer Science & Engineering (2026)"
     location   = "Bengaluru, India"
-    focus      = ["Full Stack Development", "Computer Vision", "Generative AI"]
+    focus      = ["Full Stack Development", "Software Development", "Generative AI"]
     learning   = ["React", "Node.js", "Cloud (GCP)", "System Design"]
     currently  = "Looking for a fresher Software Developer role"
 
